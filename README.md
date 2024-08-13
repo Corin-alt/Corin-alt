@@ -25,6 +25,6 @@ I'm a passionate **Software Developer Apprentice**, currently in my second year 
 
 ## Certifications 🏆
 
-- MOOC from ANSSI *(French National Cybersecurity Agency)*
-- CCNAv7: Introduction to Networks
+- [MOOC from ANSSI](https://secnumacademie.gouv.fr/) *(French National Cybersecurity Agency)*
+- [CCNAv7: Introduction to Networks](https://www.netacad.com/courses/networking/ccna-introduction-networks)
 
