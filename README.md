@@ -7,7 +7,7 @@
 I'm a passionate **Software Developer Apprentice**, currently in my second year of a Master's degree in Application Development and Security in Reims, France. I love tackling technical challenges, learning new technologies, and collaborating on innovative projects.
 
 - 🌱 **Currently learning**: DevOps, CI/CD, and Application Security
-- 🔭 **Working on**: Work-study mission
+- 🔭 **Working on**: Work-study assignment
 - 🌍 **Languages**: French (native), English (B1/B2)
 
 ## My Skills 🛠️
@@ -41,6 +41,5 @@ I'm a passionate **Software Developer Apprentice**, currently in my second year 
 ## Get in Touch 📬
 
 <p align="center">
-  <a href="your_linkedin_link"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="your_github_link"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 </p>
