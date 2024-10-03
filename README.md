@@ -25,6 +25,7 @@ I'm a passionate **Software Developer Apprentice**, currently in my second year 
 
 ## Certifications 🏆
 
+- [AWS Academy Cloud Foundations](https://www.credly.com/badges/60886628-6753-4995-942d-68943da83e14/public_url)
 - [MOOC from ANSSI](https://secnumacademie.gouv.fr/) *(French National Cybersecurity Agency)*
 - [CCNAv7: Introduction to Networks](https://www.netacad.com/courses/networking/ccna-introduction-networks)
 
