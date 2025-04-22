@@ -8,7 +8,7 @@ I'm a passionate **Software Developer Apprentice**, currently in my second year 
 
 - 🌱 **Currently learning**: DevOps, CI/CD, and Application Security
 - 🔭 **Working on**: Work-study assignment
-- 🌍 **Languages**: French (native), English (B1/B2)
+- 🌍 **Languages**: French (native), English (Professional proficiency)
 
 ## My Skills 🛠️
 
