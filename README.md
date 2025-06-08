@@ -4,10 +4,8 @@
 
 ## About Me 🚀
 
-I'm a passionate **Software Developer Apprentice**, currently in my second year of a Master's degree in Application Development and Security in Reims, France. I love tackling technical challenges, learning new technologies, and collaborating on innovative projects.
+I'm a passionate **💻 Software Engineer**. I love tackling technical challenges, learning new technologies, and collaborating on innovative projects.
 
-- 🌱 **Currently learning**: DevOps, CI/CD, and Application Security
-- 🔭 **Working on**: Work-study assignment
 - 🌍 **Languages**: French (native), English (Professional proficiency)
 
 ## My Skills 🛠️
